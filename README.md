@@ -1,2 +1,2 @@
 # helloworld
-https://silverisiron.github.io/helloworld/OneOne.html
+https://silverisiron.github.io/helloworld
